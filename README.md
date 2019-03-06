@@ -1,0 +1,2 @@
+# PlasmOSX
+aurorae theme
